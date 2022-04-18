@@ -6,6 +6,7 @@ Esto es una práctica de Git.
 - Cambiar el código
 - Confirmar los cambios (git commit)
 - Enviar los cambios a GitHub (git pull)
+- Esta es la segunda prueba
 
 Es todo y ya lo tenemos
 
